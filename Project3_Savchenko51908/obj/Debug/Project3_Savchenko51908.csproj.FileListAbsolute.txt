@@ -1,0 +1,9 @@
+C:\Users\Denis\Desktop\Project3_Savchenko51908\Project3_Savchenko51908\bin\Debug\Project3_Savchenko51908.exe.config
+C:\Users\Denis\Desktop\Project3_Savchenko51908\Project3_Savchenko51908\bin\Debug\Project3_Savchenko51908.exe
+C:\Users\Denis\Desktop\Project3_Savchenko51908\Project3_Savchenko51908\bin\Debug\Project3_Savchenko51908.pdb
+C:\Users\Denis\Desktop\Project3_Savchenko51908\Project3_Savchenko51908\obj\Debug\Project3_Savchenko51908.Properties.Resources.resources
+C:\Users\Denis\Desktop\Project3_Savchenko51908\Project3_Savchenko51908\obj\Debug\Project3_Savchenko51908.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Project3_Savchenko51908\Project3_Savchenko51908\obj\Debug\Project3_Savchenko51908.exe
+C:\Users\Denis\Desktop\Project3_Savchenko51908\Project3_Savchenko51908\obj\Debug\Project3_Savchenko51908.pdb
+C:\Users\Denis\Desktop\Project3_Savchenko51908\Project3_Savchenko51908\obj\Debug\Project3_Savchenko51908.Form1.resources
+C:\Users\Denis\Desktop\Project3_Savchenko51908\Project3_Savchenko51908\obj\Debug\Project3_Savchenko51908.csprojAssemblyReference.cache
